@@ -1,0 +1,20 @@
+ID,Prix,"Lieu de depart","Lieu d'arrivee","Heure de depart","Heure d'arrivee","Nombre de places disponibles","Date du trajet"
+49,20,Lyon,Paris,10h,22h,1,
+50,20,Lyon,Paris,10h,22h,1,
+51,5,f,f,f,f,f,
+52,9,Vesoul,Toulouse,5h,16h,2,
+53,5,vesoul,paris,10h,16h,3,
+54,0,test,arrive,2h,3h30,3,
+55,0,Vesoul,Belfort,9h,10h,2,
+56,0,Paris,Marseille,1h,4h,4,
+57,0,,,00h00,00h00,1,
+58,0,,,3h,2h30,4,
+59,0,dfgh,,00h00,2h30,1,
+60,0,dfgh,,00h00,2h30,1,
+61,0,,sdfyh,3h,1h30,1,
+62,0,,,00h00,00h00,1,
+63,6,dfgh,sdfgj,00h30,03h00,2,2023-06-10
+64,4,Vesoul,Belfort,20h30,21h00,3,2023-06-16
+65,4,Vesoul,Lyon,07h00,20h30,6,2023-06-23
+66,52,Paris,Marseille,03h00,01h30,4,2023-06-16
+67,63,Paris,Lyon,01h30,03h00,1,2023-06-02

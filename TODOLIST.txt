@@ -1,0 +1,3 @@
+(FAIT) A: Trigger pour ne pas que la personne puisse en même temps créer un trajet et le rejoindre 
+(FAIT) B : Count du nombre de fois que les véicules de sociétés sont utilisés dans le covoiturage avec la date (par an)
+C : Ajouter propriété "kilometrage" pour chaque voiture et utiliser la date pour avoir le relevé kilométrique chaque mois de chaque véicule
